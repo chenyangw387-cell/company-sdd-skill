@@ -1,0 +1,4 @@
+interface:
+  display_name: "Company SDD"
+  short_description: "按公司完整 SDD 流程开发新旧项目，逐阶段推进并独立验收，保留用户授权边界"
+  default_prompt: "使用 $company-sdd 检查当前项目和阶段，按照公司 SDD 流程执行当前已授权阶段。"
